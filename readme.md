@@ -5,10 +5,6 @@ QSave is a digital web application with expressive, elegant syntax for online sa
 - [Simple, fast and secured](https://qsave.io/docs/simple).
 - [Powerful and Independent savings models](https://qsave.io/docs/savings-models).
 - Multiple back-ends for processing [savings](https://qsave.io/docs/processing-savings) and [contributions](https://qsave.io/docs/processing-contributions) dedicatedly.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 QSave is has easy accessible UI, powerful backend technology, and provides tools required for large, robust savings.
 
